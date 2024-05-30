@@ -43,6 +43,7 @@ dependencies:
   flutter_markdown: ^0.7.1
   carousel_slider: ^4.2.1
   google_generative_ai: ^0.4.1
+  settings_ui: ^2.0.2
 
 dev_dependencies:
   flutter_test:
